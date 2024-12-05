@@ -11,9 +11,9 @@ Fine-Tuning: Leveraged the MentalWell dataset and applied Low-Rank Adaptation (L
 Purpose: Refined to generate empathetic and supportive responses tailored to users' daily life narratives and emotional states.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3ab11366-589e-4156-8fa8-630ff7288072" alt="Centered Image" width="200">
+  <img src="https://github.com/user-attachments/assets/3ab11366-589e-4156-8fa8-630ff7288072" alt="Centered Image" width="350">
 </div>
 
-![initial](https://github.com/user-attachments/assets/3ab11366-589e-4156-8fa8-630ff7288072)
+
 
 
