@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:A8D08D,100:EAF7E0&height=300&section=header&text=SupportlyChat%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:A8D08D,100:EAF7E0&height=300&section=header&text=SupportlyChat%20&fontSize=90)
 ![initial](https://github.com/user-attachments/assets/3ab11366-589e-4156-8fa8-630ff7288072)
 # SupportlyChat
 This is our code implementation of the paper "Enhancing Emotions in a Positive Way: LLM-Based AI Using CBT for Emotional Support"
