@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 # SupportlyChat
 This is our code implementation of the paper "Enhancing Emotions in a Positive Way: LLM-Based AI Using CBT for Emotional Support"
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,4 +12,3 @@ Purpose: Refined to generate empathetic and supportive responses tailored to use
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
