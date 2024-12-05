@@ -10,6 +10,10 @@ Model Architecture: Built on the Llama 3.2-1B, an optimized auto-regressive tran
 Fine-Tuning: Leveraged the MentalWell dataset and applied Low-Rank Adaptation (LoRA) to enhance performance. \
 Purpose: Refined to generate empathetic and supportive responses tailored to users' daily life narratives and emotional states.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3ab11366-589e-4156-8fa8-630ff7288072" alt="Centered Image" width="200">
+</div>
+
 ![initial](https://github.com/user-attachments/assets/3ab11366-589e-4156-8fa8-630ff7288072)
 
 
