@@ -18,6 +18,11 @@ Python: 3.10
 For this study, we construct custom dataset, [MentalWell.csv](https://github.com/Sunnnyyy16/EmoSupportAI/blob/main/MentalWell.csv). \
 This dataset is a combination of [Mental Health Datasets](https://huggingface.co/datasets/nbertagnolli/counsel-chat) and [HappyDB](https://www.kaggle.com/datasets/ritresearch/happydb).
 
+## Hugging Face
+* [MH-LLaMa](https://huggingface.co/dhlim55/mental_health_llama_basic)
+* [SupportlyChat](https://huggingface.co/dhlim55/mental_health_happydb_llama)
+* [How to install](https://huggingface.co/docs/huggingface_hub/ko/installation)
+  
 ## Code Guideline
 Our proposed method, SupportlyChat consists of two parts: 
 1) Fine-tuned Llama 
