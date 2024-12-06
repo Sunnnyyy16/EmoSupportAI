@@ -5,7 +5,7 @@ This is our code implementation of the paper "Enhancing Emotions in a Positive W
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Environment
-We experiment codes in Colab environment. \
+We experiment codes in Google Colab environment. We highly recommend to run the code files in Colab enviornment. \
 Python: 3.10
 
 ## Key Features
@@ -18,20 +18,26 @@ Python: 3.10
 For this study, we construct custom dataset, [MentalWell.csv](https://github.com/Sunnnyyy16/EmoSupportAI/blob/main/MentalWell.csv). \
 This dataset is a combination of [Mental Health Datasets](https://huggingface.co/datasets/nbertagnolli/counsel-chat) and [HappyDB](https://www.kaggle.com/datasets/ritresearch/happydb).
 
-## Hugging Face
+## Hugging Face link
+We uploaded our Fine-tuned Llama to the Huggingface. 
 * [MH-LLaMa](https://huggingface.co/dhlim55/mental_health_llama_basic)
 * [SupportlyChat](https://huggingface.co/dhlim55/mental_health_happydb_llama)
-* [How to install](https://huggingface.co/docs/huggingface_hub/ko/installation)
+* [How to install huggingface hub](https://huggingface.co/docs/huggingface_hub/ko/installation)
   
 ## Code Guideline
 Our proposed method, SupportlyChat consists of two parts: 
-1) Fine-tuned Llama 
-2) Visualization
+1) Fine-tuned Llama with MentalWell dataset
+2) Emotion Visualization
 
-To demonstrate our chatbot(SupportlyChat), we constructed three prototypes. You can access directly to the code below links.
-1) [MH-Llama](https://colab.research.google.com/github/Sunnnyyy16/EmoSupportAI/blob/main/MH_LLaMa.ipynb) : fine-tuned with Mental Health Datasets
-2) MH-Llama Visual: MH-Llama and [emotion visualization](https://colab.research.google.com/github/Sunnnyyy16/EmoSupportAI/blob/sunny/user_input_visualization.ipynb)  
-3) SupportlyChat: [fine-tuned Llama with MentalWell dataset](https://colab.research.google.com/github/Sunnnyyy16/EmoSupportAI/blob/main/SupportlyChat.ipynb) and [emotion visualization](https://colab.research.google.com/github/Sunnnyyy16/EmoSupportAI/blob/sunny/user_input_visualization.ipynb)
+Also, to demonstrate our proposed method(SupportlyChat), we construct three prototypes. 
+1) MH-Llama : fine-tuned with Mental Health Datasets
+2) MH-Llama Visual: MH-Llama and emotion visualization
+3) SupportlyChat: fine-tuned Llama with MentalWell dataset and emotion visualization
+
+We offer three codes. You can access the codes directly if you click colab icons
+1) Fine-tuned with Mental Health Datasets(MH-Llama): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunnnyyy16/EmoSupportAI/blob/main/MH_LLaMa.ipynb)
+2) Fine-tuned Llama with MentalWell dataset(SupportlyChat's Chat function): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunnnyyy16/EmoSupportAI/blob/main/SupportlyChat.ipynb)
+3) Emotion visualization (emotion visualization function of MH-Llama and SupportlyChat): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sunnnyyy16/EmoSupportAI/blob/sunny/user_input_visualization.ipynb)
 
 
 For more details, please refer to the paper.
